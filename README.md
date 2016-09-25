@@ -1,2 +1,5 @@
-# This repo is used for storing all the talks inforamtion that will be given at islooJS
-Fork the repo, update talk.md and send us a pull request. 
+# Instructions
+
+This repo is used for requesting a talk proposal for islamabad.js. 
+
+Fork the repo, update talk.md and send us a pull request or just create an issue.
