@@ -16,6 +16,12 @@
       "by": "Kamil Waheed",
       "byUrl": "https://twitter.com/kamilwaheed",
       "description": "We discuss keeping large application state in a single store and handling state transitions through pure functions only.\n\nWe look into the utilities Redux provides for managing application state, and how it sits nicely next to React.js.\n\nWe also discuss how managing state in a functional manner can lead to better quality UI, and lesser cognitive load."
+    },
+    {
+      "title": "Cross platform Mobile apps with ReactNative",
+      "by": "Ahmed Rizwan",
+      "byUrl": "https://github.com/ahmedrizwan",
+      "description": "The talk is an introduction to ReactNative + Mobx, and how it compares to native development on both iOS & Android platforms."
     }
   ]
 }
