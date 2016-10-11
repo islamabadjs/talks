@@ -1,7 +1,7 @@
 {
   "talks": [
     {
-      "title": "Cross platform Mobile apps with ReactNative",
+      "title": "Cross platform Mobile apps with React Native",
       "by": "Ahmed Rizwan",
       "byUrl": "https://github.com/ahmedrizwan",
       "description": "The talk is an introduction to ReactNative + Mobx, and how it compares to native development on both iOS & Android platforms."
