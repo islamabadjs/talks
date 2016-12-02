@@ -1,10 +1,16 @@
 {
   "talks": [
     {
-      "title": "Cross platform Mobile apps with React Native",
-      "by": "Ahmed Rizwan",
-      "byUrl": "https://github.com/ahmedrizwan",
-      "description": "The talk is an introduction to ReactNative + Mobx, and how it compares to native development on both iOS & Android platforms."
+      "title": "Functional JavaScript",
+      "by": "Fawad Hassan",
+      "byUrl": "https://github.com/iFadey",
+      "description": "A practical guide to start writing expressive JavaScript."
+    },
+    {
+      "title": "Introduction to Erlang",
+      "by": "Ali Hassan",
+      "byUrl": "https://twitter.com/thealihasan",
+      "description": "How Erlang differs, and why it’s a good choice to write fault tolerant and scalable systems."
     }
   ]
 }
