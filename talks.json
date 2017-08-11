@@ -1,4 +1,29 @@
 {
   "talks": [
+    {
+      "title": "Closures, Pure functions and Partial applied functions in JavaScript",
+      "by": "Farhan Salam",
+      "byUrl": "https://github.com/farhansalam",
+      "description": ""
+    },
+    {
+      "title": "Start writing Safer Code from Today",
+      "by": "Kamil Waheed",
+      "byUrl": "https://github.com/kamilwaheed",
+      "description": ""
+    },
+    {
+      "title": "Writing and Structuring React Native Apps",
+      "by": "Waqqas Jabbar",
+      "byUrl": "http://touchd.us/",
+      "description": ""
+    },
+    {
+      "title": "SVG : Icons, Animation and Interactivity",
+      "by": "Awwab Ul Haq",
+      "byUrl": "https://github.com/krazi3",
+      "description": ""
+    }
+
   ]
 }
