@@ -1,3 +1,16 @@
 {
-  "talks": []
+  "talks": [
+    {
+      "title": "Microservices in JavaScript",
+      "by": "Hassan Khan",
+      "byUrl": "#",
+      "description": "A deep dive into architecting microservices in JavaScript."
+    },
+    {
+      "title": "Workflows using GulpJS and Git",
+      "by": "Usama Muneer",
+      "byUrl": "#",
+      "description": "Write better development workflows using GulpJS and Git."
+    }
+  ]
 }
