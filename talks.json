@@ -1,22 +1,3 @@
 {
-  "talks": [
-    {
-      "title": "Handling complexity using redux-sagas",
-      "by": "Waqqas Jabbar",
-      "byUrl": "https://github.com/waqqas",
-      "description": "CEO Khana.pk, Khana.pk is an online food delivery platform targeted towards business community"
-    },
-    {
-      "title": "Securing REST APIs with JWT",
-      "by": "Haider Malik",
-      "byUrl": "https://github.com/HaiderMalik12",
-      "description": "Haider Malik is the founder of fullstackhour. He is a full-stack JavaScript Instructor at Udemy and egghead.io"
-    },
-    {
-      "title": "Design Patterns for JavaScript. An Introduction!",
-      "by": "Kamal Hussain",
-      "byUrl": "https://github.com/kamalhunzai",
-      "description": "Sr.Full Stack Software Engineer iOS,MEAN/MERN Stack,React Native, DevOps"
-    }
-  ]
+  "talks": []
 }
