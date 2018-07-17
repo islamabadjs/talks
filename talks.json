@@ -1,7 +1,7 @@
 {
   "talks": [
     {
-      "title": "Build your own blockchain with JavaScript",
+      "title": "Build your own blockchain using JavaScript",
       "by": "Jawad Sadiq",
       "byUrl": "https://github.com/jay-codes",
       "description": "A quick intro to what blockchain is and how to write blockchain in JavaScript."
