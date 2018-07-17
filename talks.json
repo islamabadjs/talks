@@ -1,3 +1,22 @@
 {
-  "talks": []
+  "talks": [
+    {
+      "title": "Build your own blockchain with JavaScript",
+      "by": "Jawad Sadiq",
+      "byUrl": "https://github.com/jay-codes",
+      "description": "A quick intro to what blockchain is and how to write blockchain in JavaScript."
+    },
+    {
+      "title": "Future of web in the era of IOT",
+      "by": "Zain Rana",
+      "byUrl": "#",
+      "description": "Create exciting 360 and VR experiences using React"
+    },
+    {
+      "title": "Scaling up Node.js server",
+      "by": "Syed Waleed Ali",
+      "byUrl": "#",
+      "description": "Tips and tricks for scaling a production Node.js server."
+    }
+  ]
 }
